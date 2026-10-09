@@ -48,4 +48,4 @@ https://doi.org/10.5061/dryad.8cz8w9gxb
 
 Dashboard tương tác của đồ án được công bố tại Tableau Public:
 
-https://public.tableau.com/views/Plastic_Pollution_Dashboard_WIP_2026-10-05/18_ML_Top_Prediction_Error?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Global_Plastic_Pollution_Analysis_and_Prediction/Dashboard_Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
