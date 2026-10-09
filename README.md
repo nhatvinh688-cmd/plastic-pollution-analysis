@@ -31,8 +31,8 @@ Các bảng dữ liệu chính được lưu trong thư mục:
 ```text
 data/raw/
 
-## Lưu ý về dữ liệu SD05
 
+## Lưu ý về dữ liệu SD05
 File `SD_05_Cottom_et_al_V1.1.0-G-1223_SPOT_MFA_Outputs_Municipal.xlsx`
 được sử dụng trong quá trình xử lý và phân tích dữ liệu ở cấp municipality.
 
@@ -44,3 +44,9 @@ Cottom et al. (2024), A local-to-global emissions inventory of macroplastic poll
 
 Dryad Dataset:
 https://doi.org/10.5061/dryad.8cz8w9gxb
+
+## Dashboard Tableau Public
+
+Dashboard tương tác của đồ án được công bố tại Tableau Public:
+
+https://public.tableau.com/views/Plastic_Pollution_Dashboard_WIP_2026-10-05/18_ML_Top_Prediction_Error
